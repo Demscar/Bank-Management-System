@@ -28,7 +28,7 @@ public:
 void help()
 {
 
-         cout<<"\n\n\t\t\tWelcome to Bank of Hindostan\n\nGood Day Sir/Mam,\n\tMy name is Cortana and I am the AI designed by JUGGADU Pvt. Inc., under the supervision of Rohan Sharma.Below,I will explain each of the options on the main screen:-\n\n\n1.This option is for those users who need to open new account in our bank.\n\n2.Deposit option provides a safer and easier way to deposit money to your account with latest 256bit payment Gateway.\n\n3.Withdraw option provides a safer and easier way to withdraw money from your account with latest 256bit payment Gateaway.\n\n4.Balance Enquiry is accessible to all those who have your account no. so keep it a secret.\n\n5.This option enables you to get access to all the database and get information of each account holder.\n\n6.Enter the account no, and WOOSH!!!!!, its deleted.\n\n\t\tFor online support press enter";
+         cout<<"\n\n\t\t\tWelcome to Bank of Hindostan\n\nGood Day Sir/Mam,\n\tMy name is Cortana and I am the AI designed by JUGGADU Pvt. Inc..Below,I will explain each of the options on the main screen:-\n\n\n1.This option is for those users who need to open new account in our bank.\n\n2.Deposit option provides a safer and easier way to deposit money to your account with latest 256bit payment Gateway.\n\n3.Withdraw option provides a safer and easier way to withdraw money from your account with latest 256bit payment Gateaway.\n\n4.Balance Enquiry is accessible to all those who have your account no. so keep it a secret.\n\n5.This option enables you to get access to all the database and get information of each account holder.\n\n6.Enter the account no, and WOOSH!!!!!, its deleted.\n\n\t\tFor online support press enter";
          getch();
          clrscr();
          cout<<"Connecting to Online Support\n\nPress Enter For force connection or in case not connected to online support";
@@ -81,7 +81,7 @@ void account::modify()
 void credits()
 {
 	clrscr();
-   cout<<"\n\nThe Project is a result of dedication of Anmol Ahuja and Aman Sharma of Class XII-D";
+   cout<<"\n\nThe Project is a result of dedication of someone and someone 2.0";
    getch();
 }
 
